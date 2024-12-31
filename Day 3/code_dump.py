@@ -1,5 +1,8 @@
 import time
 
+dun = 'sfesd'
+print(dun.isalpha())
+
 while True:
     age = int(input('age of your dog:'))
     if age == 0:
